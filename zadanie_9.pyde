@@ -18,3 +18,5 @@ def draw():
     finally:
         noFill()
         rect(300, 300, 450, 450)
+        
+#2pkt
